@@ -9,3 +9,5 @@
 <a href="https://www.linkedin.com/in/fernando-castilho-9a1451266/" targer="_blank">
   <img align="center" src="https://static.licdn.com/aero-v1/sc/h/akt4ae504epesldzj74dzred8" height="40">
 </a>
+
+Discord: fercastilho
